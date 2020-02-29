@@ -2,7 +2,7 @@
 Remote method Invocation in java to find power of given number.
 For running this rmi example,  
   
-1) compile all the java files  
+1)compile all the java files  
   
 javac *.java  
   
